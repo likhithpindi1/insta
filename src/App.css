@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
